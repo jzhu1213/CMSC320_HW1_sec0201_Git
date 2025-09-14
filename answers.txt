@@ -1,0 +1,6 @@
+Q1: Why might we consider using Git?
+
+Answer: Git is the central control system that is connected to GitHub, allowing us to track changes in code,
+collaborate on files and projects, and manage multiple versions of a project. Since we're going to have a large
+group project this semester, using Git allows each group to collaborate on their own datasets and code while
+being organized and keeping up with each other's code pushes and updates.
