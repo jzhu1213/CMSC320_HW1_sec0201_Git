@@ -11,3 +11,8 @@ Answer: Data science can be heavily applied to a field like finance, especially 
 Bankers and investors can use data science to analyze trends and patterns in stocks and use the information gathered
 to make smart financial decisions. Whether machine learning or creating models, finance professionals can use
 data science for anything in market prediction analysis.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging creates a new merge commit without entirely rewriting over all the existing code, keeping the branch 
+history intact. Rebasing overwrites your code and history, so your most recent commit is what will be shown.
