@@ -4,3 +4,10 @@ Answer: Git is the central control system that is connected to GitHub, allowing 
 collaborate on files and projects, and manage multiple versions of a project. Since we're going to have a large
 group project this semester, using Git allows each group to collaborate on their own datasets and code while
 being organized and keeping up with each other's code pushes and updates.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be heavily applied to a field like finance, especially when examining the stock market.
+Bankers and investors can use data science to analyze trends and patterns in stocks and use the information gathered
+to make smart financial decisions. Whether machine learning or creating models, finance professionals can use
+data science for anything in market prediction analysis.
